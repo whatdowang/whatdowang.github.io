@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Whatdowang!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Jeonghong Ha"
 description              : "An amazing website."
 url                      : "https://whatdowang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am a mechanical engineer learning AI."
+  location         : "Duwang-dong"
   email            :
   links:
     - label: "Email"
